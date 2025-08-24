@@ -1,0 +1,2 @@
+print('''sonu
+monu\nchintu''')

@@ -1,0 +1,8 @@
+print("sonu",end="\t")
+print(20)
+print("monu",end="\t")
+print(30)
+print("ajay",end="\t")
+print(40)
+print("vijay",end="\t")
+print(50)
