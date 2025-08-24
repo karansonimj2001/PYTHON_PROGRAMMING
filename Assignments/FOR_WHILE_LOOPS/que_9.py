@@ -1,0 +1,4 @@
+#calculate the cube of all numbers from 1 to a given number.
+num=int(input("enter the number here : "))
+for i in range(1,num+1):
+    print(i**3)
